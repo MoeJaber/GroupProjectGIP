@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">GroupProjectGIP</string>
+    <string name="app_name">GUI</string>
+    <string name="title_activity_lamp_switch">LampSwitch</string>
+    <string name="title_activity_lamp_dimmable">LampDimmable</string>
+    <string name="title_activity_lamp_colour">LampColour</string>
+    <string name="title_activity_tv_remote">TvRemote</string>
+    <string name="title_activity_window_blinds">WindowBlinds</string>
+    <string name="title_activity_toolbar">Toolbar</string>
+    <string name="current_channel">1</string>
+    <string name="light_dimmer">Light Dimmer</string>
+    <string name="light_switch">Light Switch</string>
 </resources>

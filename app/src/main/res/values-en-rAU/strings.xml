@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GUI AUS</string>
+    <string name="current_channel">1</string>
+    <string name="light_dimmer">Light Dimmer</string>
+    <string name="light_switch">Light Switch</string>
+
+</resources>
